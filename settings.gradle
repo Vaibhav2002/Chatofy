@@ -2,3 +2,4 @@ rootProject.name = "Chatofy"
 include ':app'
 include ':repository'
 include ':remote'
+include ':local'
